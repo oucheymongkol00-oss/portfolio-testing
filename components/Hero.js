@@ -1,4 +1,4 @@
-export default function Hero({ name = 'Your Name', title = 'Web Developer', lead = "I build accessible, performant web applications." }) {
+export default function Hero({ name = 'Pak Thet', title = 'Web Developer', lead = "I build accessible, performant web applications." }) {
   return (
     <section className="hero">
       <div className="hero-inner">

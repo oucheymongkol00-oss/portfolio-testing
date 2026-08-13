@@ -11,14 +11,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Portfolio — Your Name</title>
+        <title>Portfolio — Pak Thet</title>
         <meta name="description" content="Portfolio showcasing projects and skills." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <Navbar />
 
       <main className="container">
-        <Hero name="Your Name" title="Frontend Engineer" lead="I build accessible, performant web apps and delightful user experiences." />
+        <Hero name="Pak Thet" title="Frontend Engineer" lead="I build accessible, performant web apps and delightful user experiences." />
 
         <Skills items={["JavaScript","TypeScript","React","Next.js","CSS","Node.js"]} />
 
