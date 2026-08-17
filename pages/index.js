@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Portfolio — Pak Thet</title>
+        <title>Portfolio — Pak Thet And MongKol</title>
         <meta name="description" content="Portfolio showcasing projects and skills." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
